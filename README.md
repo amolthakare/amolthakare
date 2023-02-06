@@ -1,6 +1,6 @@
 # 💫 About Me:
 A self-motivated developer and Creative person who is interested in building user-friendly products. and who focuses on writing clean, elegant, and efficient code.
-
+<p>hello</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/amol-thakare-90469b237) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@amolthakare631) 
