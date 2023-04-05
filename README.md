@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Amol Thakare
+<h2>Hello I'm Amol Thakare</h2>
 
 
 Self-motivated Full Stack Developer having hands on experience on Frontend as well as Backend Technologies and Creative person who is interested in building user-friendly products. Extremely motivated to constantly develop technical skills and grow professionally. and looking forward to working in a challenging role that leads to the organization's overall growth and development.
