@@ -14,7 +14,7 @@ Self-motivated Full Stack Developer having hands on experience on Frontend as we
 
 📫 How to reach me amolthakare631@gmail.com
 
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Lu3mvJPjIltzmSQX2wcs1N1TcOJU3pcm/view?usp=sharing)
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ta0uxxtpKByHobDvb4JfTeEzt83uoSiy/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amol-thakare-90469b237/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@amolthakare631)
