@@ -2,9 +2,9 @@
 👋 Hello I'm Amol Thakare
 
 
-Self-motivated Full Stack Developer having hands on experience on Frontend as well as Backend Technologies and Creative person who is interested in building user-friendly products. Extremely motivated to constantly develop technical skills and grow professionally. and looking forward to working in a challenging role that leads to the organization's overall growth and development.
+Self-motivated developer and detail-oriented full-stack web developer with a specialization in Node.js Interested in building user-friendly products and looking forward to working in a challenging role that leads to the organization's overall growth and development.
 
-🔭 I’m currently working on [Megamart](https://github.com/amolthakare/crooked-milk-1565)
+🔭 I’m currently working on [Nike Clone]()
 
 🌱 Expert Full Stack Web Developer😇
 
