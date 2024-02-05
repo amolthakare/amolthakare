@@ -8,7 +8,7 @@ Self-motivated Full Stack Developer having hands on experience on Frontend as we
 
 🌱 I’m currently learning Full Stack Web Development😇
 
-❓ Ask me about NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5 , MySQL
+❓ Ask me about NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5 , MySQL, React.js, Ruby on Rails
 
 👨‍💻 All of my projects are available at [My Portfolio](https://amolthakare.github.io/)
 
