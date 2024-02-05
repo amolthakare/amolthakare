@@ -6,7 +6,7 @@ Self-motivated Full Stack Developer having hands on experience on Frontend as we
 
 🔭 I’m currently working on [Megamart](https://github.com/amolthakare/crooked-milk-1565)
 
-🌱 I’m currently learning Full Stack Web Development😇
+🌱 Expert Full Stack Web Developer😇
 
 ❓ Ask me about NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5 , MySQL, React.js, Ruby on Rails
 
