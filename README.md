@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello I'm Amol Thakare
+👋 Hi there, my name is Amol Thakare.
 
 
 Self-motivated developer and detail-oriented full-stack web developer with a specialization in Node.js Interested in building user-friendly products and looking forward to working in a challenging role that leads to the organization's overall growth and development.
